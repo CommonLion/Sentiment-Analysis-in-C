@@ -5,11 +5,11 @@ This program was a bonus project for my System Level Programming Class. The purp
 
 <h2> What I Learned </h2>
 
-*To read from a file 
-*Gained a deeper understanding of object orientated programming
-*Learned how to parse a file 
-*Learned about pointers and their different types
-*Gained a deeper understanding of typedef & its uses
+* To read from a file 
+* Gained a deeper understanding of object orientated programming
+* Learned how to parse a file 
+* Learned about pointers and their different types
+* Gained a deeper understanding of typedef & its uses
 
 
 
